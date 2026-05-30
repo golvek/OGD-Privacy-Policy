@@ -1,4 +1,4 @@
-# Privacy Policy for Ogden
+# Privacy Policy for OG Watcher
 
 **Last updated: May 29, 2026**
 
