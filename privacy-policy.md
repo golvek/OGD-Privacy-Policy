@@ -1,10 +1,10 @@
-# Privacy Policy for Ogden
+# Privacy Policy for Ogden Watcher
 
 **Last updated: May 29, 2026**
 
 ## Data Collection
 
-Ogden does **not** collect, store, transmit, or share any personal data, browsing data, or any other information.
+Ogden Watcher does **not** collect, store, transmit, or share any personal data, browsing data, or any other information.
 
 - **Task counts, timer settings, and daily history** are stored exclusively on your device using Chrome's local storage (`chrome.storage.local` and `localStorage`).
 - **No data is ever sent** to any external server, third party, or the developer.
@@ -21,4 +21,4 @@ If this policy changes, the updated version will be included with the extension 
 
 ## Contact
 
-For questions about this privacy policy, contact the developer through the Chrome Web Store support channel.
+For questions about this privacy policy, contact the developer through the email golvek@gmail.com.
