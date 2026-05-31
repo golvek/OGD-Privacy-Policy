@@ -1,10 +1,10 @@
-# Privacy Policy for OG Watcher
+# Privacy Policy for OGD Watcher
 
 **Last updated: May 29, 2026**
 
 ## Data Collection
 
-Ogden does **not** collect, store, transmit, or share any personal data, browsing data, or any other information.
+OGD Watcher does **not** collect, store, transmit, or share any personal data, browsing data, or any other information.
 
 - **Task counts, timer settings, and daily history** are stored exclusively on your device using Chrome's local storage (`chrome.storage.local` and `localStorage`).
 - **No data is ever sent** to any external server, third party, or the developer.
