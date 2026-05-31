@@ -19,6 +19,10 @@ The extension reads the current page's DOM structure to detect task submissions 
 
 If this policy changes, the updated version will be included with the extension update.
 
+## External Services
+
+The extension popup may load an image from `storage.ko-fi.com` when displaying a Ko-fi support button. Ko-fi's privacy policy is available at [ko-fi.com/home/privacy](https://ko-fi.com/home/privacy).
+
 ## Contact
 
 For questions about this privacy policy, contact the developer through the email golvek@gmail.com.
