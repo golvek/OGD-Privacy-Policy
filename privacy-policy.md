@@ -13,7 +13,7 @@ OGD Watcher does **not** collect, store, transmit, or share any personal data, b
 
 ## Page Access
 
-The extension reads the current page's DOM structure strictly on `review.intern.facebook.com` to detect task submissions, extract advertiser names, and render a floating overlay. This information is processed entirely locally on your device and is never recorded, stored, or transmitted.
+The extension reads the current page's DOM structure to detect task submissions, extract advertiser names, and render a floating overlay. This information is processed entirely locally on your device and is never recorded, stored, or transmitted.
 
 ## Clipboard Usage (Auto-Copy)
 
