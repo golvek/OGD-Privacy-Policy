@@ -29,5 +29,5 @@ If this policy changes, the updated version will be included with the extension 
 
 ## Contact
 
-For questions about this privacy policy, contact the developer through the Chrome Web Store support channel.
+For questions about this privacy policy, contact the developer here golvek@gmail.com
 
