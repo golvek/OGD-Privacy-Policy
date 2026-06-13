@@ -1,6 +1,6 @@
 # Privacy Policy for OGD Watcher
 
-**Last updated: June 12, 2026**
+**Last updated: June 13, 2026**
 
 ## Data Collection
 
@@ -19,15 +19,10 @@ The extension reads the current page's DOM structure to detect task submissions,
 
 The extension requests the `clipboardWrite` permission to enable the optional **Auto-Copy Title** feature. When manually enabled by the user, this feature simply copies the advertiser's name to your clipboard for your workflow convenience. The extension **never** reads your clipboard history or intercepts external copied data.
 
-## External Services & Subscriptions
-
-If you choose to use Premium features, you may enter a License Key. The extension will securely send this key to Lemon Squeezy's official API (api.lemonsqueezy.com) exclusively to verify your subscription status. We do not handle your credit card information. Lemon Squeezy acts as the Merchant of Record for payments. Their privacy policy is available at lemonsqueezy.com/privacy.
-
 ## Changes
 
 If this policy changes, the updated version will be included with the extension update.
 
 ## Contact
 
-For questions about this privacy policy, contact the developer here golvek@gmail.com
-
+For questions about this privacy policy, contact the developer through the email: [golvek@gmail.com](mailto:golvek@gmail.com)
