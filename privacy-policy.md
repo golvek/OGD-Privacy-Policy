@@ -21,7 +21,7 @@ The extension requests the `clipboardWrite` permission to enable the optional **
 
 ## External Services & Subscriptions
 
-If you choose to use Premium features, you may enter a License Key. The extension will securely send this key to Gumroad's official API (`api.gumroad.com`) exclusively to verify your subscription status. We do not handle your credit card information. Gumroad acts as the Merchant of Record for payments. Their privacy policy is available at [gumroad.com/privacy](https://gumroad.com/privacy).
+If you choose to use Premium features, you may enter a License Key. The extension will securely send this key to Lemon Squeezy's official API (api.lemonsqueezy.com) exclusively to verify your subscription status. We do not handle your credit card information. Lemon Squeezy acts as the Merchant of Record for payments. Their privacy policy is available at lemonsqueezy.com/privacy.
 
 ## Changes
 
