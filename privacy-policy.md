@@ -1,15 +1,21 @@
 # Privacy Policy for OGD Watcher
 
-**Last updated: June 13, 2026**
+**Last updated: June 22, 2026**
 
 ## Data Collection
 
-OGD Watcher does **not** collect, store, transmit, or share any personal data, browsing data, or any other tracking information.
+OGD Watcher is built with a privacy-first approach and does **not** collect, store, transmit, or share any personal data, browsing data, or any tracking information.
 
 - **Task counts, timer settings, custom phrases, and daily history** are stored exclusively on your device using Chrome's local storage (`chrome.storage.local` and `localStorage`).
-- **No data is ever sent** to any external server, third party, or the developer.
+- **With the exception of Premium license validation** (see below), no data is ever sent to any external server, third party, or the developer.
 - **No analytics**, crash reporting, or tracking of any kind.
 - **No cookies**, no fingerprinting, no advertising.
+
+## Premium License Validation
+
+If you choose to use or subscribe to the Premium features, the extension will communicate with our secure licensing server solely to validate your license key. The only information transmitted during this process is the **license key itself** and a randomly generated, anonymous device ID to manage device limits. 
+
+No personal data, email addresses, payment information, or browsing history are collected or transmitted by the extension. Payment processing is handled entirely and securely by Stripe.
 
 ## Page Access
 
